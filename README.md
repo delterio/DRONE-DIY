@@ -47,3 +47,11 @@
 
 - **[ardubee](https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/)** 
     - https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/
+
+- **[paparazziua](https://wiki.paparazziuav.org/wiki/Main_Page)**
+    - https://wiki.paparazziuav.org/wiki/Main_Page
+    
+- **[librepilot](https://www.librepilot.org/site/index.html)**
+    -  https://www.librepilot.org/site/index.html
+
+      
