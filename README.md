@@ -27,3 +27,5 @@ https://www.opendronemap.org/
 https://dronecode.org/
 
 https://dronecode.diyrobocars.com/
+
+https://opensource.com/article/18/2/drone-projects
