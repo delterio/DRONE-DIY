@@ -1,7 +1,5 @@
 # DRONE-ESP32
-DRONE ESP32
-
-[ESP-Drone](https://docs.espressif.com/projects/espressif-esp-drone/en/latest/gettingstarted.html)
+#[ESP-Drone](https://docs.espressif.com/projects/espressif-esp-drone/en/latest/gettingstarted.html)
 [arduino-quadcopter](https://www.mydronelab.com/blog/arduino-quadcopter.html)
 [STM32](http://www.brokking.net/)
 [ardupilot](https://ardupilot.org/copter/)
