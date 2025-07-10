@@ -22,12 +22,12 @@
 
 -**[open-source-drone-projects-list](http://www.caldat.com/b/open-source-drone-projects-list-cm583)** http://www.caldat.com/b/open-source-drone-projects-list-cm583
 
-https://www.opendronemap.org/
+-**[opendronemap](https://www.opendronemap.org/)**
 
-https://dronecode.org/
+-**[dronecode](https://dronecode.org/)**
 
-https://dronecode.diyrobocars.com/
+-**[diyrobocars](https://dronecode.diyrobocars.com/)**
 
-https://opensource.com/article/18/2/drone-projects
+-**[opensource](https://opensource.com/article/18/2/drone-projects)**
 
-https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/
+-**[ardubee](https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/)**
