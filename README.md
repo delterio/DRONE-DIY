@@ -24,7 +24,7 @@
                         
    **https://www.mydronelab.com/blog/arduino-quadcopter.html**
 
-   ## [STM32](http://www.brokking.net/)
+   ## [STM32]
 
    The YMFC-32 is a STM32 based quadcopter that is easy to build and fun to fly. The auto level functionality makes it also a very capable starting quadcopter. Auto leveling means that, when you release the sticks the quadcopter levelsit self.
 
