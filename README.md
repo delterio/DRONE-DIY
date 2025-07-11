@@ -10,7 +10,18 @@
    
    **https://docs.espressif.com/projects/espressif-esp-drone/en/latest/gettingstarted.html**
 
-- **[arduino-quadcopter](https://www.mydronelab.com/blog/arduino-quadcopter.html)**                      
+- **[arduino-quadcopter](https://www.mydronelab.com/blog/arduino-quadcopter.html)**
+
+    How to Make An Arduino Quadcopter Drone: Step-by-Step DIY Project
+
+    ![Arduino Quadcopter Drone](https://www.mydronelab.com/wp-content/uploads/2016/04/Arduino-Quadcopter-DIY-810x608.jpg)
+
+   If you love the idea of building your own quadcopter but haven’t got a clue how and where to start, you are definitely on the right page. We know how difficult and frustrating the research can be, so we decided to make a tutorial for building your      own quadcopter using an Arduino board. We hope that you will find it useful.
+
+   And, to get you even more excited about your upcoming project, here is an Arduino quadcopter in action:
+  
+[![ Joop Brokking ](https://i.ytimg.com/vi/_0TUCWGuIew/hqdefault.jpg)](https://youtu.be/_0TUCWGuIew?si=leBBtcORLviC_kj0)
+                        
     - https://www.mydronelab.com/blog/arduino-quadcopter.html
 
 - **[STM32](http://www.brokking.net/)**                                                                  
