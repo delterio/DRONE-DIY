@@ -1,12 +1,14 @@
-# DRONE 
+  # DRONE 
 
-- **[ESP-Drone](https://docs.espressif.com/projects/espressif-esp-drone/en/latest/gettingstarted.html)**
+  ## [ESP-Drone](https://docs.espressif.com/projects/espressif-esp-drone/en/latest/gettingstarted.html) 
 
-    ESP-Drone Overview
+  ### ESP-Drone Overview
 
-    ESP-Drone is an ESP32/ESP32-S2/ESP32-S3 based flying development board provided by Espressif. ESP-Drone is equipped with Wi-Fi key features, which allows this drone to be connected to and controlled by an APP or a gamepad over a Wi-Fi network.          This  drone comes with simple-structured hardware, clear codes, and supports functional extension. Therefore, ESP-Drone can be used in STEAM education. Part of the codes is from Crazyflie open source project under GPL3.0 license.
+   ESP-Drone is an ESP32/ESP32-S2/ESP32-S3 based flying development board provided by Espressif. ESP-Drone is equipped with Wi-Fi key features, which allows this drone to be connected to and controlled by an APP or a gamepad over a Wi-Fi network.          This  drone comes with simple-structured hardware, clear codes, and supports functional extension. Therefore, ESP-Drone can be used in STEAM education. Part of the codes is from Crazyflie open source project under GPL3.0 license.
 
-    https://docs.espressif.com/projects/espressif-esp-drone/en/latest/gettingstarted.html
+   ![ESP-Drone](https://github.com/delterio/esp-drone/raw/master/docs/_static/espdrone_s2_v1_2_2.png)
+   
+   **https://docs.espressif.com/projects/espressif-esp-drone/en/latest/gettingstarted.html**
 
 - **[arduino-quadcopter](https://www.mydronelab.com/blog/arduino-quadcopter.html)**                      
     - https://www.mydronelab.com/blog/arduino-quadcopter.html
