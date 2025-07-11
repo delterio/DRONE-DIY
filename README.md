@@ -26,21 +26,21 @@
 
    ## [STM32](http://www.brokking.net/)
 
-     The YMFC-32 is a STM32 based quadcopter that is easy to build and fun to fly. The auto level functionality makes it also a very capable starting quadcopter. Auto leveling means that, when you release the sticks the quadcopter levels itself.
+   The YMFC-32 is a STM32 based quadcopter that is easy to build and fun to fly. The auto level functionality makes it also a very capable starting quadcopter. Auto leveling means that, when you release the sticks the quadcopter levelsit self.
 
-The total cost to build the YMFC-32 is approximately $135.
+   The total cost to build the YMFC-32 is approximately $135.
 
-Check step 2 below for a complete hardware list for all the individual parts. This includes a battery, transmitter, charger, resistors, etc. 
+   Check step 2 below for a complete hardware list for all the individual parts. This includes a battery, transmitter, charger, resistors, etc. 
 
    ![O quadcopter STM32](http://www.brokking.net/YMFC-32/YMFC-32_01.jpg)
 
    The YMFC-32 is not a high level flight controller. The purpose of the YMFC-32 is to provide a simple and understandable code that is needed to build a DIY quadcopter flight controller.
 
-The code is well commented and clearly explained in the YMFC-32 video tutorials. This makes it possible to further develop the YMFC-32 flight controller code for your own purpose.
+   The code is well commented and clearly explained in the YMFC-32 video tutorials. This makes it possible to further develop the YMFC-32 flight controller code for your own purpose.
 
-If you encounter any problems during the build or setup please check the Q&A page first. Most questions are already answered in detail. 
+   If you encounter any problems during the build or setup please check the Q&A page first. Most questions are already answered in detail. 
    
-    - http://www.brokking.net/
+   **http://www.brokking.net/**
 
 - **[ardupilot](https://ardupilot.org/copter/)** 
     - https://ardupilot.org/copter/
