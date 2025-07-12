@@ -42,8 +42,11 @@
    
    **http://www.brokking.net/**
 
-- **[ardupilot](https://ardupilot.org/copter/)** 
-    - https://ardupilot.org/copter/
+   ## [ardupilot](https://ardupilot.org) 
+
+   ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more. The source code is developed by a large community of professionals and enthusiasts. New developers are always welcome! The best way to start is by joining the Developer Team Forum, which is open to all and chock-full of daily development goodness. 
+    
+    - https://ardupilot.org
 
 - **[ros](https://www.ros.org/)** 
     - https://www.ros.org/
