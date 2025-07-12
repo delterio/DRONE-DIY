@@ -50,6 +50,18 @@
     
    **https://ardupilot.org**
 
+   ## [Openrobotics](https://www.openrobotics.org/)
+
+   **https://www.openrobotics.org/**
+
+   ## [Open-RMF](https://www.open-rmf.org/)
+
+   **https://www.open-rmf.org/**
+
+   ## [Gazebosim](https://gazebosim.org/home)
+
+   **https://gazebosim.org/home**
+
 - **[ros](https://www.ros.org/)** 
     - https://www.ros.org/
 
