@@ -47,7 +47,7 @@
    ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more. The source code is developed by a large community of professionals and enthusiasts. New developers are always welcome! The best way to start is by joining the Developer Team Forum, which is open to all and chock-full of daily development goodness. 
   
    ![Ardupilot](https://ardupilot.org/ardupilot/_images/home_ardupilot.jpg)
-    
+
    **https://ardupilot.org**
 
    ## [Openrobotics](https://www.openrobotics.org/)
@@ -57,6 +57,9 @@
    Criamos plataformas abertas de software e hardware para robótica. Trabalhando com nossa comunidade global, oferecemos três plataformas abertas: ROS, Gazebo e Open-RMF. Programe seus robôs com ROS, simule-os com o Gazebo, interopere        seus sistemas usando Open-RMF. Essas plataformas são amplamente utilizadas em todo o mundo, desde implantações de produção até projetos de sala de aula. Para saber mais sobre como a comunidade está usando essas plataformas para criar      soluções valiosas, consulte a vitrine da nossa comunidade.
 
    ![Demo of Prius in ROS/GAZEBO](https://camo.githubusercontent.com/d2b61ca43ca63761d19a3ca5eacc8bf51a8e89034ac6bb20352738e14af69560/68747470733a2f2f7777772e6f7372666f756e646174696f6e2e6f72672f776f72647072657373322f77702d636f6e74656e742f75706c6f6164732f323031372f30362f70726975735f726f756e6461626f75745f657869742e706e67)
+
+   
+   [![Simulated Car Demo](https://i.ytimg.com/vi/Hqur3fG99Ug/hqdefault.jpg)](https://youtu.be/Hqur3fG99Ug?si=4OJMnjGU2Q2AFT48)
 
    **https://www.openrobotics.org/**
 
