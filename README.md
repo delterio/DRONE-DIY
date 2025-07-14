@@ -86,9 +86,11 @@
 
    [Gazebo](https://github.com/gazebosim)
 
-   Gazebo accurately and efficiently simulates robots for your application, whether it's warehouse logistics, autonomous driving, or space exploration. You get a robust physics engine, high-quality graphics, and programmatic interfaces, including         integration with ROS. And it's all open source
+   Gazebo accurately and efficiently simulates robots for your application, whether it's warehouse logistics, autonomous driving, or space exploration. You get a robust physics engine, high-quality graphics, and programmatic interfaces, including         integration with ROS. And it's all open source   
 
    ![Gazebo](https://camo.githubusercontent.com/a553fd2070396d03793f29e647317f5d62ced12a2110fb8883c6cebc9c925d6d/68747470733a2f2f67617a65626f73696d2e6f72672f6173736574732f696d616765732f67616c6c6572792f67616c6c6572795f302e706e67)
+
+   [![Gazebo](https://i.ytimg.com/vi/laWn7_cj434/hqdefault.jpg)](https://youtu.be/laWn7_cj434?si=fnQ_qeTW1lgsCl8A)
 
    **https://gazebosim.org/home**
 
