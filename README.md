@@ -21,7 +21,7 @@
    If you love the idea of building your own quadcopter but haven’t got a clue how and where to start, you are definitely on the right page. We know how difficult and frustrating the research can be, so we decided to make a tutorial for      building your      own quadcopter using an Arduino board. We hope that you will find it useful.
 
    And, to get you even more excited about your upcoming project, here is an Arduino quadcopter in action:
-  
+   
    [![ Joop Brokking ](https://i.ytimg.com/vi/_0TUCWGuIew/hqdefault.jpg)](https://youtu.be/_0TUCWGuIew?si=leBBtcORLviC_kj0)
                         
    **https://www.mydronelab.com/blog/arduino-quadcopter.html**
@@ -41,6 +41,9 @@
    The code is well commented and clearly explained in the YMFC-32 video tutorials. This makes it possible to further develop the YMFC-32 flight controller code for your own purpose.
 
    If you encounter any problems during the build or setup please check the Q&A page first. Most questions are already answered in detail. 
+
+   [![YMFC-32 DIY 32-bit STM32](https://i.ytimg.com/vi/WN1fruLsoCE/hqdefault.jpg)](https://youtu.be/WN1fruLsoCE?si=on8DYj3G0O8ux0jH) 
+  
    
    **http://www.brokking.net/**
 
