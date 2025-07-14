@@ -44,7 +44,6 @@
 
    [![YMFC-32 DIY 32-bit STM32](https://i.ytimg.com/vi/WN1fruLsoCE/hqdefault.jpg)](https://youtu.be/WN1fruLsoCE?si=on8DYj3G0O8ux0jH) 
   
-   
    **http://www.brokking.net/**
 
    ## [Ardupilot](https://ardupilot.org) 
@@ -79,6 +78,7 @@
 
    ![Open-RMF](https://github.com/open-rmf/rmf/blob/main/media/rmf_banner.png)
 
+   [![Open-RMF](https://i.ytimg.com/vi/phn-shg_dHk/hqdefault.jpg)](https://youtu.be/phn-shg_dHk?si=Oh9jlCWNe0CxcnRP)
 
    **https://www.open-rmf.org/**
 
