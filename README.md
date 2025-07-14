@@ -53,6 +53,8 @@
   
    ![Ardupilot](https://ardupilot.org/ardupilot/_images/home_ardupilot.jpg)
 
+   [![Ardupilot](https://i.ytimg.com/vi/4pkSnBqA_m4/hqdefault.jpg)](https://youtu.be/4pkSnBqA_m4?si=U8pNTQ_6nbp-jo98)
+
    **https://ardupilot.org**
 
    ## [Openrobotics](https://www.openrobotics.org/)
