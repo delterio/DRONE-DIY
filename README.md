@@ -58,7 +58,7 @@
 
    ## [Openrobotics](https://www.openrobotics.org/)
 
-   [Plataformas abertas para robótica](https://github.com/osrf/)
+   ### [Plataformas abertas para robótica](https://github.com/osrf/)
 
    Criamos plataformas abertas de software e hardware para robótica. Trabalhando com nossa comunidade global, oferecemos três plataformas abertas: ROS, Gazebo e Open-RMF. Programe seus robôs com ROS, simule-os com o Gazebo, interopere        seus sistemas usando Open-RMF. Essas plataformas são amplamente utilizadas em todo o mundo, desde implantações de produção até projetos de sala de aula. Para saber mais sobre como a comunidade está usando essas plataformas para criar      soluções valiosas, consulte a vitrine da nossa comunidade.
 
@@ -72,7 +72,7 @@
    ## [Open-RMF](https://www.open-rmf.org/)
 
    
-   [Open-RMF](https://github.com/open-rmf)
+   ### [Open-RMF](https://github.com/open-rmf)
 
    The Open Robotics Middleware Framework (Open-RMF) is a free, open source, modular software system that enables robotic system interoperability. Open-RMF coordinates multiple fleets of indoor and outdoor robots with typical robotic use cases and        integrates them with elevators/lifts, doors and other infrastructure.
 
