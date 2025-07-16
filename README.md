@@ -102,7 +102,7 @@
 
    ![Robot Operating System (ROS)](https://ros.org/imgs/JazzyNoBG.png)
 
-   [![Robot Operating System ](https://i.ytimg.com/vi/ZDF9_NnBu1A/hqdefault.jpg)] (https://youtu.be/ZDF9_NnBu1A?si=Ac3U-pIxK1ebLjOX)
+   [![Robot Operating System ](https://i.ytimg.com/vi/ZDF9_NnBu1A/hqdefault.jpg)](https://youtu.be/ZDF9_NnBu1A?si=Ac3U-pIxK1ebLjOX)
 
    ** https://www.ros.org/**
 
