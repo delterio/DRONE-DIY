@@ -94,8 +94,15 @@
 
    **https://gazebosim.org/home**
 
-- **[ros](https://www.ros.org/)** 
-    - https://www.ros.org/
+- **[ros](https://www.ros.org/)**
+
+   ROS
+
+   ROS is a software development kit that helps you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project including integration with Gazebo. And      it's all open source.
+
+   ![Robot Operating System (ROS)](https://ros.org/imgs/JazzyNoBG.png)
+
+   ** https://www.ros.org/**
 
 - **[px4](https://px4.io/)** 
     - https://px4.io/
