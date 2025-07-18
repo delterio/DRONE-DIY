@@ -112,7 +112,7 @@
 
    ## [PX4](https://px4.io/)
 
-   **[PX4-Autopilot](PX4-Autopilot)**
+   ### [PX4-Autopilot](PX4-Autopilot)
 
    PX4 is an open source flight control software for drones and other unmanned vehicles. The project provides a flexible set of tools for drone developers to share technologies to create tailored solutions for drone applications.        PX4  is hosted by Dronecode, a Linux Foundation non-profit.
 
@@ -124,8 +124,12 @@
  
   **https://px4.io/**
 
-- **[raspberry-pi-drone](https://dojofordrones.com/raspberry-pi-drone/)** 
-    - https://dojofordrones.com/raspberry-pi-drone/
+  ## [Raspberry-PI-Drone](https://dojofordrones.com/raspberry-pi-drone/)
+
+A Raspberry Pi can be used to build a drone, acting as a companion computer to a flight controller, or even as the primary flight controller itself. This allows for advanced features and customization not typically available in commercially available drones. 
+
+
+  **https://dojofordrones.com/raspberry-pi-drone/**
 
 - **[arducopter](https://www.arducopter.co.uk/)** 
     - https://www.arducopter.co.uk/
