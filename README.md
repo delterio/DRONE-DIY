@@ -127,9 +127,9 @@
   ## [Raspberry-PI-Drone](https://dojofordrones.com/raspberry-pi-drone/)
 
 A Raspberry Pi can be used to build a drone, acting as a companion computer to a flight controller, or even as the primary flight controller itself. This allows for advanced features and customization not typically available in commercially available drones. 
+![Raspberry Pi](https://s2-techtudo.glbimg.com/XM55NVuUTygytPiOSmS11KeJTZM=/0x0:695x391/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/q/0/6htoAeS5Gn6MW2G7k81A/2017-01-25-drone1.png)
 
  [![Raspberry Pi](https://i.ytimg.com/vi/3kIR3T7X4ag/hqdefault.jpg)](https://youtu.be/3kIR3T7X4ag?si=oW6f5KqwzbbQZYTL)
-
 
   **https://dojofordrones.com/raspberry-pi-drone/**
 
