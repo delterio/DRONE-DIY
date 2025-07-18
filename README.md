@@ -119,6 +119,8 @@
   ![PX4](https://probots.co.in/pub/media/catalog/product/cache/d8ddd0f9b0cd008b57085cd218b48832/p/i/pixhawkflightcontrollerkit_lrg.jpg)
 
   ![PX4](https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/s/10/d6feb891-d4dd-44c9-8de9-ac065122b73c.jpg)
+
+  [![PX4](https://i.ytimg.com/vi/hgSc6fOrHt8/hqdefault.jpg)](https://www.youtube.com/live/hgSc6fOrHt8?si=a4qE9mDPhSVcP-e6)
  
   **https://px4.io/**
 
