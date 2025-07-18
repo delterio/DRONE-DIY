@@ -10,6 +10,8 @@
 
    [![Esp-Drone](https://i.ytimg.com/vi/WSuS1gleYGw/hqdefault.jpg)](https://www.youtube.com/live/WSuS1gleYGw?si=kBh6kfr-Ua6IYsnE)
    
+   ESP-Drone - Um pequeno drone com ESP32
+   
    **https://docs.espressif.com/projects/espressif-esp-drone/en/latest/gettingstarted.html**
 
    ## [Arduino-Quadcopter](https://www.mydronelab.com/blog/arduino-quadcopter.html)
