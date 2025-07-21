@@ -166,11 +166,13 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
 
    [![Octacopter](https://i.ytimg.com/vi/oInv-w0988k/hqdefault.jpg)](https://youtu.be/oInv-w0988k?si=yPgV4071QORyfOVD)
 
-   
    **https://www.yolinux.com/TUTORIALS/Drones.html**
 
-- **[diydrone](https://diydrones.com/)** 
-    - https://diydrones.com/
+   ## [DIYDrone](https://diydrones.com/)
+
+  ![diydrone](https://storage.ning.com/topology/rest/1.0/file/get/13660266455?profile=RESIZE_710x&width=710)
+  
+   **https://diydrones.com/**
 
 - **[open-source-drone-projects-list](http://www.caldat.com/b/open-source-drone-projects-list-cm583)** 
     - http://www.caldat.com/b/open-source-drone-projects-list-cm583
