@@ -181,11 +181,7 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
 
   [![diydrone](https://i.ytimg.com/vi/WnHK_x_a17g/hqdefault.jpg)](https://youtu.be/WnHK_x_a17g?si=Ch88OJ2svH5VX08n)
   
-  
    **https://diydrones.com/**
-
-- **[open-source-drone-projects-list](http://www.caldat.com/b/open-source-drone-projects-list-cm583)** 
-    - http://www.caldat.com/b/open-source-drone-projects-list-cm583
 
 - **[opendronemap](https://www.opendronemap.org/)** 
     - https://www.opendronemap.org/
