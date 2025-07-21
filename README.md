@@ -178,6 +178,9 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
    - ![ArduRover](http://rover.ardupilot.org/), open source software for ground-based vehicles
 
   ![diydrone](https://storage.ning.com/topology/rest/1.0/file/get/13660266455?profile=RESIZE_710x&width=710)
+
+  [![diydrone](https://i.ytimg.com/vi/WnHK_x_a17g/hqdefault.jpg)](https://youtu.be/WnHK_x_a17g?si=Ch88OJ2svH5VX08n)
+  
   
    **https://diydrones.com/**
 
