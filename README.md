@@ -153,7 +153,7 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
 
    ![Octacopter](https://www.yolinux.com/TUTORIALS/images/Drones/Drone-20161209_143012-1400x888.jpg)
 
-   The ubiquity of the electric multi-rotor drone was made possible by Arduino based flight software and Linux based ground station planning software. Some drone manufacturers like 3D Robotics and Yuneec have stayed true to the Open Source Software roots while the industry leader DJI is predominantly closed source and proprietary.
+   The ubiquity of the electric multi-rotor drone was made possible by Arduino based flight software and Linux based ground station planning software. Some drone manufacturers like 3D Robotics and Yuneec have stayed true to the ![Open Source Software](https://en.wikipedia.org/wiki/Open-source_software) roots while the industry leader DJI is predominantly closed source and proprietary.
 
   Multi-rotor Configurations:
 
