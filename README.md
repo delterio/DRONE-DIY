@@ -152,6 +152,18 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
    This page is a resource for the drone community supporting multi-rotor Drones based on Free and Open Source Software (FOSS). 
 
    ![Octacopter](https://www.yolinux.com/TUTORIALS/images/Drones/Drone-20161209_143012-1400x888.jpg)
+
+   The ubiquity of the electric multi-rotor drone was made possible by Arduino based flight software and Linux based ground station planning software. Some drone manufacturers like 3D Robotics and Yuneec have stayed true to the Open Source Software roots while the industry leader DJI is predominantly closed source and proprietary.
+
+  Multi-rotor Configurations:
+
+   - Tricopter: three motors/three arms
+   - Quadcopter: four motors/four arms
+   - Hexacopter: six motors/six arms
+   - Octacopter: eight motors/eight arms
+   - Y6: two motors on each of three arms
+   - X8: two motors on each of four arms
+
    
    **https://www.yolinux.com/TUTORIALS/Drones.html**
 
