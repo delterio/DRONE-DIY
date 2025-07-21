@@ -164,6 +164,8 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
    - Y6: two motors on each of three arms
    - X8: two motors on each of four arms
 
+   [![Octacopter](https://i.ytimg.com/vi/oInv-w0988k/hqdefault.jpg)](https://youtu.be/oInv-w0988k?si=yPgV4071QORyfOVD)
+
    
    **https://www.yolinux.com/TUTORIALS/Drones.html**
 
