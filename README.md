@@ -203,6 +203,8 @@ The Dronecode project is a Linux Foundation-sponsored project working to build a
 
 ![Dronecode](https://dronecode.org/wp-content/uploads/sites/24/2024/09/modalai-starling2.png)
 
+[![Dronecode](https://i.ytimg.com/vi/Rs74gd4HWwA/hqdefault.jpg)](https://youtu.be/Rs74gd4HWwA?si=0AzvjWFWnm__uqzb)
+
    **https://dronecode.org/**
 
 - **[diyrobocars](https://dronecode.diyrobocars.com/)** 
