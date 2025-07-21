@@ -183,9 +183,9 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
   
    **https://diydrones.com/**
 
-   ## ![Opendronemap](https://www.opendronemap.org)
+   ## [Opendronemap](https://www.opendronemap.org)
 
-   ### ![OpenDroneMap](https://github.com/OpenDroneMap)
+   ### [OpenDroneMap](https://github.com/OpenDroneMap)
 
 So you've used a drone to capture a bunch of overhead imagery of an area of interest. Now what? OpenDroneMap may be able to help. This software takes this aerial imagery and helps you process it into point clouds, digital surface and elevation models, or just orthorectify the imagery (in essence, line up the imagery to a known coordinate system for further analysis).
 
