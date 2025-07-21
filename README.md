@@ -183,7 +183,7 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
   
    **https://diydrones.com/**
 
-   ## [opendronemap](https://www.opendronemap.org/)
+   ## ![Opendronemap](https://www.opendronemap.org/)
 
    ### ![OpenDroneMap](https://github.com/OpenDroneMap)
 
@@ -191,7 +191,9 @@ So you've used a drone to capture a bunch of overhead imagery of an area of inte
 
 Grab the source or a beta release on ![GitHub](https://github.com/OpenDroneMap/ODM) under a GPLv3 license, as well as a sample data set, and see whether it's a good fit for you; the project's wiki has more information. OpenDroneMap is designed to be run in Linux and can be run with Docker to avoid needing the exact configuration environment the project was built for.
 
-   ** https://www.opendronemap.org/**
+   ![opendronemap](https://www.opendronemap.org/wp-content/uploads/2018/07/sheffield_dsm.jpg)
+   
+   **https://www.opendronemap.org/**
 
 - **[dronecode](https://dronecode.org/)** 
     - https://dronecode.org/
