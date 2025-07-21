@@ -147,7 +147,7 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
 
    ## [Yolinux](https://www.yolinux.com/TUTORIALS/Drones.html)
 
-   ### Open Source Drones:
+   ### ![Open Source Drones:](https://opensource.com/article/18/2/drone-projects)
 
    This page is a resource for the drone community supporting multi-rotor Drones based on Free and Open Source Software (FOSS). 
 
