@@ -170,6 +170,15 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
 
    ## [DIYDrone](https://diydrones.com/)
 
+   This community is the birthplace of ![ArduPilot](http://ardupilot.org/), the world's first universal autopilot platform (planes, multicopters of all sorts and ground rovers). Today the Pixhawk autopilot runs a variety of powerful free and open UAV software systems, including:
+
+   - PX4, a pro-quality open source copter, plane, rover and VTOL software stack from the Linux Foundation's Dronecode Project
+   - ArduCopter, open source multicopter and heli UAV software
+   - ArduPlane, open source software for planes of all types
+   - ArduRover, open source software for ground-based vehicles
+
+
+
   ![diydrone](https://storage.ning.com/topology/rest/1.0/file/get/13660266455?profile=RESIZE_710x&width=710)
   
    **https://diydrones.com/**
