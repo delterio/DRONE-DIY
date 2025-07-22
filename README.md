@@ -195,9 +195,9 @@ Grab the source or a beta release on ![GitHub](https://github.com/OpenDroneMap/O
    
    **https://www.opendronemap.org/**
 
-   ## ![DroneCode](https://dronecode.org/)
+   ## [DroneCode](https://dronecode.org/)
 
-   ###  ![Dronecode](https://github.com/dronecode)
+   ###  [Dronecode](https://github.com/dronecode)
 
 The Dronecode project is a Linux Foundation-sponsored project working to build a common open source platform for UAV development. It's been through a lot of changes in the last few years, but today it serves as the governance structure for the components of the overall platform, where the project's actual development occurs. Those components include the ![PX4](https://px4.io/) autopilot flight control system, the ![MAVLink](https://mavlink.io/en/) robotics communication toolkit, and the ![QGroundControl](https://qgroundcontrol.com/) user interface for flight control, mission planning, and configuration, all of which have individual ![GitHub repositories](https://github.com/dronecode).
 
