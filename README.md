@@ -246,8 +246,9 @@ The premade devices in this space vary greatly in both price and build quality, 
   
    **https://opensource.com/article/18/2/drone-projects**
 
-- **[ardubee](https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/)** 
-    - https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/
+ ## [ardubee](https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/)
+ 
+   **https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/**
 
 - **[paparazziua](https://wiki.paparazziuav.org/wiki/Main_Page)**
     - https://wiki.paparazziuav.org/wiki/Main_Page
