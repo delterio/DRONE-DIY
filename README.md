@@ -234,6 +234,14 @@ The list of unmanned aerial devices (UAVs) that fit the moniker of drone seems t
 Most people are looking for something in the middle. They'd like a flying vehicle that is large enough to support a decently long flight time, hold a camera or other data capture device, and perhaps be able to control some (or all) of its flight autonomously using pre-programmed coordinates or real-time data.
 
 The premade devices in this space vary greatly in both price and build quality, and most of the ones I've seen use proprietary software and hardware. But you don't have to go this route! The drone-building community has created many software and hardware projects under open licenses that allow you to build, repair, customize, and experiment with your own drone, or to supplement the use of drones in some other way. Let's take a look at some of those projects.
+
+  - **[Paparazzi UAV](https://wiki.paparazziuav.org/wiki/Main_Page)**
+  - **[ArduPilot](https://ardupilot.org/)**
+  - **[Dronecode](https://dronecode.org/)**
+  - **[LibrePilot](https://www.librepilot.org/site/index.html)**
+  - **[Flone](https://flone.cc/)**
+  - **[OpenDroneMap](https://www.opendronemap.org/)**
+  - **[DronePan](https://droneblocks.io/)**
   
    **https://opensource.com/article/18/2/drone-projects**
 
