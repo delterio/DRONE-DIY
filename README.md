@@ -248,6 +248,7 @@ The premade devices in this space vary greatly in both price and build quality, 
 
  ## [Ardubee](http://luminousbe.es/ardubee/)
 
+![Ardubee](https://discuss.ardupilot.org/uploads/default/original/3X/d/d/dd38bf0c48f87e0d52683997c0d8b069667fa8a4.jpeg)
  
  o ArduBee é um pequeno drone Open Source e modular baseado no software ArduPilot. Sendo capaz de voar em ambientes internos e externos e vem equipado com um poderoso microcontrolador ARM Cortex M7, o STM32H7.
 
