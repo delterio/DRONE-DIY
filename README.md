@@ -4,7 +4,7 @@
 
    ### [ESP-Drone Overview](https://github.com/delterio/esp-drone/tree/master)
 
-   ESP-Drone is an ESP32/ESP32-S2/ESP32-S3 based flying development board provided by ![Espressif](https://www.espressif.com/en). ESP-Drone is equipped with Wi-Fi key features, which allows this drone to be connected to and controlled by an APP or a gamepad over a Wi-Fi     network. This  drone comes with simple-structured hardware, clear codes, and supports functional extension. Therefore, ESP-Drone can be used in STEAM education. Part of the codes is from Crazyflie open source project under  GPL3.0 license.
+   ESP-Drone is an ESP32/ESP32-S2/ESP32-S3 based flying development board provided by [Espressif](https://www.espressif.com/en). ESP-Drone is equipped with Wi-Fi key features, which allows this drone to be connected to and controlled by an APP or a gamepad over a Wi-Fi     network. This  drone comes with simple-structured hardware, clear codes, and supports functional extension. Therefore, ESP-Drone can be used in STEAM education. Part of the codes is from Crazyflie open source project under  GPL3.0 license.
 
    ![ESP-Drone](https://github.com/delterio/esp-drone/raw/master/docs/_static/espdrone_s2_v1_2_2.png)ESP-Drone
 
@@ -100,7 +100,7 @@
 
    ## [ROS](https://www.ros.org/)
 
-   ![ROS](https://github.com/ros2)
+   [ROS](https://github.com/ros2)
 
    ROS is a software development kit that helps you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project including integration with Gazebo. And      it's all open source.
 
@@ -149,7 +149,7 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
 
    ### ![Open Source Drones:](https://opensource.com/article/18/2/drone-projects)
 
-   This page is a resource for the drone community supporting multi-rotor Drones based on ![Free and Open Source Software (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
+   This page is a resource for the drone community supporting multi-rotor Drones based on [Free and Open Source Software (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
 
    ![Octacopter](https://www.yolinux.com/TUTORIALS/images/Drones/Drone-20161209_143012-1400x888.jpg)
 
@@ -172,10 +172,10 @@ A Raspberry Pi can be used to build a drone, acting as a companion computer to a
 
    This community is the birthplace of [ArduPilot](http://ardupilot.org/), the world's first universal autopilot platform (planes, multicopters of all sorts and ground rovers). Today the [Pixhawk](https://pixhawk.org/#autopilots) autopilot runs a variety of powerful free and open UAV software systems, including:
 
-   - ![PX4](http://px4.io/), a pro-quality open source copter, plane, rover and VTOL software stack from the Linux Foundation's [Dronecode Project](https://www.dronecode.org/)
-   - ![ArduCopter](http://copter.ardupilot.org/), open source multicopter and heli UAV software
-   - ![ArduPlane](http://plane.ardupilot.org/), open source software for planes of all types
-   - ![ArduRover](http://rover.ardupilot.org/), open source software for ground-based vehicles
+   - [PX4](http://px4.io/), a pro-quality open source copter, plane, rover and VTOL software stack from the Linux Foundation's [Dronecode Project](https://www.dronecode.org/)
+   - [ArduCopter](http://copter.ardupilot.org/), open source multicopter and heli UAV software
+   - [ArduPlane](http://plane.ardupilot.org/), open source software for planes of all types
+   - [ArduRover](http://rover.ardupilot.org/), open source software for ground-based vehicles
 
   ![diydrone](https://storage.ning.com/topology/rest/1.0/file/get/13660266455?profile=RESIZE_710x&width=710)
 
@@ -199,7 +199,7 @@ Grab the source or a beta release on ![GitHub](https://github.com/OpenDroneMap/O
 
    ###  [Dronecode](https://github.com/dronecode)
 
-The Dronecode project is a Linux Foundation-sponsored project working to build a common open source platform for UAV development. It's been through a lot of changes in the last few years, but today it serves as the governance structure for the components of the overall platform, where the project's actual development occurs. Those components include the ![PX4](https://px4.io/) autopilot flight control system, the ![MAVLink](https://mavlink.io/en/) robotics communication toolkit, and the ![QGroundControl](https://qgroundcontrol.com/) user interface for flight control, mission planning, and configuration, all of which have individual ![GitHub repositories](https://github.com/dronecode).
+The Dronecode project is a Linux Foundation-sponsored project working to build a common open source platform for UAV development. It's been through a lot of changes in the last few years, but today it serves as the governance structure for the components of the overall platform, where the project's actual development occurs. Those components include the [PX4](https://px4.io/) autopilot flight control system, the [MAVLink](https://mavlink.io/en/) robotics communication toolkit, and the [QGroundControl](https://qgroundcontrol.com/) user interface for flight control, mission planning, and configuration, all of which have individual [GitHub repositories](https://github.com/dronecode).
 
 ![Dronecode](https://dronecode.org/wp-content/uploads/sites/24/2024/09/modalai-starling2.png)
 
