@@ -242,6 +242,7 @@ The premade devices in this space vary greatly in both price and build quality, 
   - **[Flone](https://flone.cc/)**
   - **[OpenDroneMap](https://www.opendronemap.org/)**
   - **[DronePan](https://droneblocks.io/)**
+  - **[MatrixPilot](https://github.com/MatrixPilot)**
   
    **https://opensource.com/article/18/2/drone-projects**
 
