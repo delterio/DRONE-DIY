@@ -246,8 +246,16 @@ The premade devices in this space vary greatly in both price and build quality, 
   
    **https://opensource.com/article/18/2/drone-projects**
 
- ## [ardubee](https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/)
+ ## [Ardubee](http://luminousbe.es/ardubee/)
+
  
+ o ArduBee é um pequeno drone Open Source e modular baseado no software ArduPilot. Sendo capaz de voar em ambientes internos e externos e vem equipado com um poderoso microcontrolador ARM Cortex M7, o STM32H7.
+
+O projeto tem foco em aplicações educacionais, pesquisa e público STEM. É uma plataforma expansível com um sistema complementar que permite adicionar seus próprios componentes personalizados.
+
+![ArduBee](http://luminousbe.es/wp-content/uploads/2020/09/IMG_6234-Modifica-1024x576.jpg)
+
+   
    **https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/**
 
 - **[paparazziua](https://wiki.paparazziuav.org/wiki/Main_Page)**
