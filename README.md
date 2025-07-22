@@ -260,10 +260,5 @@ O projeto tem foco em aplicações educacionais, pesquisa e público STEM. É um
 
    **https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/**
 
-- **[paparazziua](https://wiki.paparazziuav.org/wiki/Main_Page)**
-    - https://wiki.paparazziuav.org/wiki/Main_Page
-    
-- **[librepilot](https://www.librepilot.org/site/index.html)**
-    -  https://www.librepilot.org/site/index.html
 
       
