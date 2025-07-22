@@ -214,6 +214,7 @@ The Dronecode project is a Linux Foundation-sponsored project working to build a
 PX4 powers any vehicle from racing and cargo drones through to ground vehicles.
 The powerful and uniquely flexible core of the Dronecode Platform is open-source, and available for you to use and customise as needed.
 
+   ![DIYRobocars](https://dronecode.diyrobocars.com/wp-content/uploads/2017/08/yuneec520_hero_image.jpg)
   
    **https://dronecode.diyrobocars.com/**
 
