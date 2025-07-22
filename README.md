@@ -220,8 +220,22 @@ The powerful and uniquely flexible core of the Dronecode Platform is open-source
   
    **https://dronecode.diyrobocars.com/**
 
-- **[opensource](https://opensource.com/article/18/2/drone-projects)** 
-    - https://opensource.com/article/18/2/drone-projects
+  ## [OpenSource](https://opensource.com/article/18/2/drone-projects)
+
+  
+  ### 8 open source drone projects
+  
+**Check out what's new in open source drone hardware, software, and related projects.**
+
+Over the past few years, interest in civilian, military, and commercial drones has grown rapidly, which has also driven the maker community's interest in open source drone projects.
+
+The list of unmanned aerial devices (UAVs) that fit the moniker of drone seems to be constantly expanding. These days, the term seems to encompass everything from what is essentially a cheap, multi-bladed toy helicopter, all the way up to custom-built soaring machines with incredibly adept artificial intelligence capabilities.
+
+Most people are looking for something in the middle. They'd like a flying vehicle that is large enough to support a decently long flight time, hold a camera or other data capture device, and perhaps be able to control some (or all) of its flight autonomously using pre-programmed coordinates or real-time data.
+
+The premade devices in this space vary greatly in both price and build quality, and most of the ones I've seen use proprietary software and hardware. But you don't have to go this route! The drone-building community has created many software and hardware projects under open licenses that allow you to build, repair, customize, and experiment with your own drone, or to supplement the use of drones in some other way. Let's take a look at some of those projects.
+  
+   **https://opensource.com/article/18/2/drone-projects**
 
 - **[ardubee](https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/)** 
     - https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/
