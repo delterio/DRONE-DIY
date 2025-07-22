@@ -255,7 +255,8 @@ O projeto tem foco em aplicações educacionais, pesquisa e público STEM. É um
 
 ![ArduBee](http://luminousbe.es/wp-content/uploads/2020/09/IMG_6234-Modifica-1024x576.jpg)
 
-   
+[![Cubepilot Ardubee](https://i.ytimg.com/vi/RWfGjZ3GrII/hqdefault.jpg)](https://youtu.be/RWfGjZ3GrII?si=airAZvhFTzz9JMb_)
+
    **https://www.unmannedsystemstechnology.com/company/cubepilot/ardubee/**
 
 - **[paparazziua](https://wiki.paparazziuav.org/wiki/Main_Page)**
